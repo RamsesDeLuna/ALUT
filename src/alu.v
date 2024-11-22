@@ -1,4 +1,3 @@
-// Equal comparison
 module alu(
 	input [1:0] A,
 	input [1:0] B,
